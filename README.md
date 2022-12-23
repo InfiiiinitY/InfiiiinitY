@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InfiiiinitY or John
-- 👀 I’m interested in everything cars, tec and games. So you will mosk likely find me working on my car, some pc or playing games.
+- 👀 I’m interested in everything cars, tec and games. So you will mosk likely find me working on my car, something pc related or playing games.
 - 🌱 I’m currently learning IT at ZF Friedrichshafen AG in Schweinfurt, Germany
 - 📫 How to reach me ... 🤷🏽‍♂️
 
