@@ -15,9 +15,9 @@
   <br>
   <br>
   <p>You can reach me or learn more about me here:</p>
-  <a href="https://linkedin.com/in/john-mattheus" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2?style=flat&logo=linkedin" height="25" alt="linkedin logo" /></a>
-  <a href="https://about.me/john.mattheus" target="_blank"><img src="https://img.shields.io/badge/About.me-black?style=flat&logo=aboutdotme" height="25" alt="About.me logo"/></a>
-  <a href="https://aboutjohn.info" target="_blank"><img src="https://img.shields.io/badge/My%20Website-black?style=flat&logo=vercel" height="25" alt="Website" /></a>
+  <a href="https://linkedin.com/in/john-mattheus" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2?style=flat&logo=linkedin" height="25" alt="linkedin" /></a>
+  <a href="https://about.me/john.mattheus" target="_blank"><img src="https://img.shields.io/badge/About.me-white?style=flat&logo=aboutdotme&logoColor=black" height="25" alt="About.me"/></a>
+  <a href="https://aboutme.johns-world.de" target="_blank"><img src="https://img.shields.io/badge/My%20Website-white?style=flat&logo=vitepress&logoColor=%235C73E7" height="25" alt="Website" /></a>
 </div>
 
 <h2 align="left">I code with</h2>
