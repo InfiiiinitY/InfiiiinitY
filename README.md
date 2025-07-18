@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋</h1>
 
-<p align="left">My name is John and I'm an IT-Trainee from Germany.</p>
+<p align="left">My name is John and I'm an IT-Specialist from Germany.</p>
 
 <h2 align="left">About me</h2>
 
